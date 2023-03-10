@@ -1,0 +1,15 @@
+C:\Users\Carolina\desktop\lp1\LP1Semana02\ManipulaVar\bin\Debug\net6.0\ManipulaVar.exe
+C:\Users\Carolina\desktop\lp1\LP1Semana02\ManipulaVar\bin\Debug\net6.0\ManipulaVar.deps.json
+C:\Users\Carolina\desktop\lp1\LP1Semana02\ManipulaVar\bin\Debug\net6.0\ManipulaVar.runtimeconfig.json
+C:\Users\Carolina\desktop\lp1\LP1Semana02\ManipulaVar\bin\Debug\net6.0\ManipulaVar.dll
+C:\Users\Carolina\desktop\lp1\LP1Semana02\ManipulaVar\bin\Debug\net6.0\ManipulaVar.pdb
+C:\Users\Carolina\desktop\lp1\LP1Semana02\ManipulaVar\obj\Debug\net6.0\ManipulaVar.csproj.AssemblyReference.cache
+C:\Users\Carolina\desktop\lp1\LP1Semana02\ManipulaVar\obj\Debug\net6.0\ManipulaVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carolina\desktop\lp1\LP1Semana02\ManipulaVar\obj\Debug\net6.0\ManipulaVar.AssemblyInfoInputs.cache
+C:\Users\Carolina\desktop\lp1\LP1Semana02\ManipulaVar\obj\Debug\net6.0\ManipulaVar.AssemblyInfo.cs
+C:\Users\Carolina\desktop\lp1\LP1Semana02\ManipulaVar\obj\Debug\net6.0\ManipulaVar.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\desktop\lp1\LP1Semana02\ManipulaVar\obj\Debug\net6.0\ManipulaVar.dll
+C:\Users\Carolina\desktop\lp1\LP1Semana02\ManipulaVar\obj\Debug\net6.0\refint\ManipulaVar.dll
+C:\Users\Carolina\desktop\lp1\LP1Semana02\ManipulaVar\obj\Debug\net6.0\ManipulaVar.pdb
+C:\Users\Carolina\desktop\lp1\LP1Semana02\ManipulaVar\obj\Debug\net6.0\ManipulaVar.genruntimeconfig.cache
+C:\Users\Carolina\desktop\lp1\LP1Semana02\ManipulaVar\obj\Debug\net6.0\ref\ManipulaVar.dll
