@@ -52,7 +52,7 @@ namespace Specials
 
 
             //Overflow integral type
-            byte b = byte.MaxValue + b++;
+            byte b = byte.MaxValue;
             short s = short.MaxValue;
             int i = int.MaxValue;
             b++;
@@ -61,7 +61,15 @@ namespace Specials
 
             Console.WriteLine($"byte overflow = {b}\nshort overflow = {s}"
             + $"\nint overflow = {i}");
-            
+
+            //Overflow floating point types
+            float f = float.MaxValue;
+            double d = double.MaxValue;
+            f++;
+            d++;
+
+            Console.WriteLine($"float overflow = {f}\ndouble overflow = {d}");
+
         }
     }
 }
