@@ -1,0 +1,15 @@
+C:\Users\Carolina\desktop\lp1\LP1Semana02\PerguntaValores\obj\Debug\net6.0\PerguntaValores.csproj.AssemblyReference.cache
+C:\Users\Carolina\desktop\lp1\LP1Semana02\PerguntaValores\obj\Debug\net6.0\PerguntaValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carolina\desktop\lp1\LP1Semana02\PerguntaValores\obj\Debug\net6.0\PerguntaValores.AssemblyInfoInputs.cache
+C:\Users\Carolina\desktop\lp1\LP1Semana02\PerguntaValores\obj\Debug\net6.0\PerguntaValores.AssemblyInfo.cs
+C:\Users\Carolina\desktop\lp1\LP1Semana02\PerguntaValores\obj\Debug\net6.0\PerguntaValores.csproj.CoreCompileInputs.cache
+C:\Users\Carolina\desktop\lp1\LP1Semana02\PerguntaValores\bin\Debug\net6.0\PerguntaValores.exe
+C:\Users\Carolina\desktop\lp1\LP1Semana02\PerguntaValores\bin\Debug\net6.0\PerguntaValores.deps.json
+C:\Users\Carolina\desktop\lp1\LP1Semana02\PerguntaValores\bin\Debug\net6.0\PerguntaValores.runtimeconfig.json
+C:\Users\Carolina\desktop\lp1\LP1Semana02\PerguntaValores\bin\Debug\net6.0\PerguntaValores.dll
+C:\Users\Carolina\desktop\lp1\LP1Semana02\PerguntaValores\bin\Debug\net6.0\PerguntaValores.pdb
+C:\Users\Carolina\desktop\lp1\LP1Semana02\PerguntaValores\obj\Debug\net6.0\PerguntaValores.dll
+C:\Users\Carolina\desktop\lp1\LP1Semana02\PerguntaValores\obj\Debug\net6.0\refint\PerguntaValores.dll
+C:\Users\Carolina\desktop\lp1\LP1Semana02\PerguntaValores\obj\Debug\net6.0\PerguntaValores.pdb
+C:\Users\Carolina\desktop\lp1\LP1Semana02\PerguntaValores\obj\Debug\net6.0\PerguntaValores.genruntimeconfig.cache
+C:\Users\Carolina\desktop\lp1\LP1Semana02\PerguntaValores\obj\Debug\net6.0\ref\PerguntaValores.dll
