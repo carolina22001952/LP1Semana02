@@ -50,6 +50,18 @@ namespace Specials
             Console.WriteLine
             ($"\n{float.PositiveInfinity} \n{float.NegativeInfinity} \n{float.NaN}");
 
+
+            //Overflow integral type
+            byte b = byte.MaxValue + b++;
+            short s = short.MaxValue;
+            int i = int.MaxValue;
+            b++;
+            s++;
+            i++;
+
+            Console.WriteLine($"byte overflow = {b}\nshort overflow = {s}"
+            + $"\nint overflow = {i}");
+            
         }
     }
 }
