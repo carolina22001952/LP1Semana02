@@ -17,10 +17,10 @@ namespace PerguntaValores
             height = float.Parse(heightStr);
             radius = float.Parse(radiusStr);
 
-            volume = (float)3.1415926 * (radius * radius) * height;
-            sArea = (2 * (float)3.1415926) * radius * (radius + height);
+            volume = (float)Math.PI * (float)Math.Pow(radius, 2) * height;
+            sArea = (2 * (float)Math.PI) * radius * (radius + height);
 
-            Console.WriteLine($"Volume = {volume}\nSurface Area = {sArea}");
+            Console.WriteLine($"Volume = {volume:f3}\nSurface Area = {sArea:f3}");
         }
     }
 }
